@@ -1,0 +1,4 @@
+fractal-defi
+pandas
+numpy
+matplotlib
